@@ -1,4 +1,4 @@
-# Business Questions
+# Analysis
 
 ## Dataset Summary
 
@@ -55,3 +55,7 @@ The most prevalent issue is **vendor-only-evidence** (230 rows, 32.8% of the dat
 > "our SOP for the highs are within several hours."
 > "So maybe like a few days. Let's do it that way."
 > "That helps really track and drive the mitigation part on the back end."
+
+## Workflow Improvement Suggestion
+
+**Recommendation:** Add a post-extraction deduplication step to eliminate cross-bucket duplicates before human review.
